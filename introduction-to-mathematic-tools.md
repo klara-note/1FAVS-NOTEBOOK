@@ -46,11 +46,12 @@ A\subset B
 A=B
 \\]
 
-また、要素を一つも持たない集合、つまり集合$\{\}$を空集合といい、$\empty$や$\varnothing$と書く。集合$A$どんな集合であっても$\varnothing \subset A$が成立する。
+また、要素を一つも持たない集合、つまり集合$\{\}$を空集合といい、$\emptyset$や$\varnothing$と書く。集合$A$どんな集合であっても$\varnothing \subset A$が成立する。
 
 <details>
   <summary>さらに詳しく</summary>
   部分集合の定義より、$\varnothing\subset A$が成立することと、$a\in\varnothing$をみたす全ての$a$について$a\in A$が成立することは同値である。ところで、$\varnothing$は一切の要素を持たないから、「$a\in\varnothing$をみたす全ての$a$について$a\in A$」の前提は$a$が何であっても成立せず、論理的に「$a\in\varnothing$をみたす全ての$a$について$a\in A$」は常に成立する。(cf. 全称量化)
 </details>
+
 
 ### 1.2 集合間の演算
