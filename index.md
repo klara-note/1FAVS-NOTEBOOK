@@ -8,8 +8,17 @@
   gtag('config', 'G-1PSLTF4HCS');
 </script>
 
- KLARA NOTEBOOKは、言語学や計算言語学に関連する事項をまとめた公開ノートブックです。
+ KLARA NOTEBOOKは、言語学や計算言語学などに関連する事項をまとめた公開ノートブックです。
+ 
+ [Twitter](https://twitter.com/KlrCalorieBomb)
+ [音楽](https://www.youtube.com/channel/UC6IdDDxv8ii_oO8PHmklwdA)
 
-## 意味論
+## 言語学
 
-[数学的道具の準備](https://klara-note.github.io/KLARA-NOTEBOOK/introduction-to-mathematic-tools)
+### 意味論
+
+[集合入門](https://klara-note.github.io/KLARA-NOTEBOOK/introduction-to-mathematic-tools)
+
+## 情報学
+
+### 機械学習
