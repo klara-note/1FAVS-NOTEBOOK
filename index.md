@@ -18,7 +18,7 @@
 
 ### - 意味論
 	
-	[集合入門](https://klara-note.github.io/KLARA-NOTEBOOK/introduction-to-mathematic-tools)
+[集合入門](https://klara-note.github.io/KLARA-NOTEBOOK/introduction-to-mathematic-tools)
 
 ## 情報学
 
