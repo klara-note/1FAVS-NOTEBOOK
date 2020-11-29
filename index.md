@@ -7,7 +7,7 @@
   gtag('config', 'G-1PSLTF4HCS');
 </script>
 
- KLARA NOTEBOOKは、言語学や計算言語学などに関連する事項をまとめた公開ノートブックです。
+ 1favs NOTEBOOKは、言語学や計算言語学などに関連する事項をまとめた公開ノートブックです。
 
 ### About me
 
